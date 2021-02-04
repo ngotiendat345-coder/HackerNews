@@ -1,0 +1,7 @@
+export const REQUEST_API = 'REQUEST_API'
+export const REQUEST_API_SUCCESS = 'REQUEST_API_SUCCESS'
+export const REMOVE_STORY = 'REMOVE_STORY'
+export const INCREASE_PAGE = 'INCREASE_PAGE'
+export const DECREASE_PAGE = 'DECREASE_PAGE'
+export const CHANGE_QUERY = 'CHANGE_QUERY'
+export const API_ENDPOINT = 'https://hn.algolia.com/api/v1/search?'
